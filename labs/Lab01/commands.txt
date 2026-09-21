@@ -1,0 +1,4 @@
+cd /
+cd Program Files\AccessData\FTK Imager\cmd
+ftkimager --help
+ftkimager --verify "C:\Daubert Standard Evidence\Image1\Evidence_drive1.0001"
