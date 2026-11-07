@@ -9,9 +9,3 @@ A compliation of my labs within Digital Forensics, Investigation, and Response, 
 | <a href="labs\Lab03">Recovering Deleted and Damaged Files </a>| In this lab, I'm in charge of using professional data recovery tools and techniques to recover deleted data from different operating systems and file systems. Deleted data might hold incriminating suspicious evidence. |
 | <a href="labs\Lab04">Conducting an Incident Response Investigation </a>| In this lab, I simulate the Analysis step of the incident response process. Given a packet capture (PCAP) file and disk image of a compromised employee, I analyzed them for evidence and compiled my findings into an incident response report. |
 | <a href="labs\Lab05">Conducting Forensics Investigations on Window Systems </a>| In this lab, I grew familiar with Windows forensic investigation techniques. I investigated and used various Window utilities to perform live analysis on a Windows Server 2019 system, delved into the Windows Registry, and analyzed a Windows drive image using Paraben's E3. |
-
-Lab 6: Conducting Forensic Investigations on Linux Systems
-Lab 7: Conducting Forensic Investigations on Email and Chat Logs
-Lab 8: Conducting Forensic Investigations on Mobile Devices
-Lab 9: Conducting Forensic Investigations on Network Infrastructure
-Lab 10: Conducting Forensic Investigations on System Memory
